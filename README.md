@@ -1,4 +1,5 @@
 # Fb-Crack1
+<p align=left> <img src=https://komarev.com/ghpvc/?username=kangdeckon alt=Demias/> </p>
 $ pkg update && pkg upgrade
 
 $ pkg install python
