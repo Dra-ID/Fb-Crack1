@@ -15,6 +15,6 @@ $ git clone https://github.com/vin-XD/Fb-Crack1
 
 $ cd Fb-Crack1
 
-$ python Fb-Crack1.py
+$ python main.py
 
 Pokonamah jos josss 
